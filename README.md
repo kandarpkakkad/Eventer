@@ -89,7 +89,6 @@ The changes should not violate the Add Event rules. This page also has a graph f
 ## 5. Gallary
 
 ![Login Page](/images/img1.png "Login Page")
-|:--:|
 | *Figure 1: Login Page* |
 
 ![Register Page](/images/img2.png "Register Page")
