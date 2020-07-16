@@ -156,4 +156,4 @@ The changes should not violate the Add Event rules. This page also has a graph f
 
 ## 5. Run
 
-To run the site on localhost, install [XAMPP](https://www.apachefriends.org/index.html) and start the server. Then go to [phpmyadmin](http://localhost/phpmyadmin/) page and import the Sessional.sql file to your database. Then open the login.php file and start using the website.
+To run the site on localhost, install [XAMPP](https://www.apachefriends.org/index.html) and start the server. Then go to [phpmyadmin](http://localhost/phpmyadmin/) page and import the Sessional.sql file to your database. Copy the file to htdocs folder in the XAMPP(windows)/lampp(linux) folder and open the site [login.php](http://localhost/login.php) on your browser If you have kept the files in the folder do add the folder name before login.php. 
