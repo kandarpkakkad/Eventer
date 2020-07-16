@@ -87,6 +87,7 @@ __Event Name:__ Event Name should be present in the database.
 The changes should not violate the Add Event rules. This page also has a graph for analysis.
 
 ## 5. Gallary
+
 ![Login Page](/images/img1.png "Login Page")
 
 ![Register Page](/images/img2.png "Register Page")
