@@ -61,8 +61,8 @@ You can change password with original constraints.
 
 Only 2 admins:
 
-1. Admin - password
-2. Admin2 - password2
+1. admin - password
+2. admin2 - password2
 
 ### 4.2 Add Event
 
