@@ -87,7 +87,6 @@ __Event Name:__ Event Name should be present in the database.
 The changes should not violate the Add Event rules. This page also has a graph for analysis.
 
 ## 5. Gallary
-
 ![Login Page](/images/img1.png "Login Page")
 
 ![Register Page](/images/img2.png "Register Page")
@@ -121,7 +120,6 @@ The changes should not violate the Add Event rules. This page also has a graph f
 ![Event3 Removed From Admin Page](/images/img17.png "Event3 Removed From Admin Page")
 
 ![Event3 Removed From Student Home Page](/images/img18.png "Event3 Removed From Student Home Page")
-
 ## 6. Run
 
 To run the site on localhost, install [XAMPP](https://www.apachefriends.org/index.html) and start the server. Then go to [phpmyadmin](http://localhost/phpmyadmin/) page and import the Sessional.sql file to your database. Copy the file to htdocs folder in the XAMPP(windows)/lampp(linux) folder and open the site [login.php](http://localhost/login.php) on your browser If you have kept the files in the folder do add the folder name before login.php. 
