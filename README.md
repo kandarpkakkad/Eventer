@@ -111,6 +111,17 @@ The changes should not violate the Add Event rules. This page also has a graph f
 
 ![Update Event And Analysis Page](/images/img11.png "Update Event And Analysis Page")
 
+![Showing The Data As Pop Up In Graph](/images/img12.png "Showing The Data As Pop Up In Graph")
+
+![New Event Added By Admin](/images/img13.png "New Event Added By Admin")
+
+![Showing New Event To Student](/images/img14.png "Showing New Event To Student")
+
+![Removing Event3](/images/img16.png "Removing Event3")
+
+![Event3 Removed From Admin Page](/images/img17.png "Event3 Removed From Admin Page")
+
+![Event3 Removed From Student Home Page](/images/img18.png "Event3 Removed From Student Home Page")
 
 ## 6. Run
 
