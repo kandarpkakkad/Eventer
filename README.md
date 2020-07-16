@@ -88,27 +88,28 @@ The changes should not violate the Add Event rules. This page also has a graph f
 
 ## 5. Gallary
 
-![Login Page](/images/img1.png "Login Page")
+![Login Page](/images/img1.png)
 
-![Register Page](/images/img2.png "Register Page")
 
-![Forgot Password Page](/images/img3.png "Forgot Password Page")
+![Register Page](/images/img2.png)
 
-![Home Page For Student](/images/img4.png "Home Page For Student")
+![Forgot Password Page](/images/img3.png)
 
-![Event Register Page](/images/img5.png "Event Register Page")
+![Home Page For Student](/images/img4.png)
 
-![Event3 Is Now Registered](/images/img6.png "Event3 Is Now Registered")
+![Event Register Page](/images/img5.png)
 
-![Student Profile Page](/images/img7.png "Student Profile Page")
+![Event3 Is Now Registered](/images/img6.png)
 
-![Home Page For Admin](/images/img8.png "Home Page For Admin")
+![Student Profile Page](/images/img7.png)
 
-![Add Event Page](/images/img9.png "Add Event Page")
+![Home Page For Admin](/images/img8.png)
 
-![Remove Event Page](/images/img10.png "Remove Event Page")
+![Add Event Page](/images/img9.png)
 
-![Update Event And Analysis Page](/images/img11.png "Update Event And Analysis Page")
+![Remove Event Page](/images/img10.png)
+
+![Update Event And Analysis Page](/images/img11.png)
 
 ![Showing The Data As Pop Up In Graph](/images/img12.png "Showing The Data As Pop Up In Graph")
 
