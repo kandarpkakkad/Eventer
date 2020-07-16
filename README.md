@@ -89,71 +89,38 @@ The changes should not violate the Add Event rules. This page also has a graph f
 ## 5. Gallary
 
 ![Login Page](/images/img1.png "Login Page")
-| *Figure 1: Login Page* |
 
 ![Register Page](/images/img2.png "Register Page")
-|:--:|
-| *Figure 2: Register Page* |
 
 ![Forgot Password Page](/images/img3.png "Forgot Password Page")
-|:--:|
-| *Figure 3: Forgot Password Page* |
 
 ![Home Page For Student](/images/img4.png "Home Page For Student")
-|:--:|
-| *Figure 4: Home Page For Student* |
 
 ![Event Register Page](/images/img5.png "Event Register Page")
-|:--:|
-| *Figure 5: Event Register Page* |
 
 ![Event3 Is Now Registered](/images/img6.png "Event3 Is Now Registered")
-|:--:|
-| *Figure 6: Event3 Is Now Registered* |
 
 ![Student Profile Page](/images/img7.png "Student Profile Page")
-|:--:|
-| *Figure 7: Student Profile Page* |
 
 ![Home Page For Admin](/images/img8.png "Home Page For Admin")
-|:--:|
-| *Figure 8: Home Page For Admin* |
 
 ![Add Event Page](/images/img9.png "Add Event Page")
-|:--:|
-| *Figure 9: Add Event Page* |
 
 ![Remove Event Page](/images/img10.png "Remove Event Page")
-|:--:|
-| *Figure 10: Remove Event Page* |
 
 ![Update Event And Analysis Page](/images/img11.png "Update Event And Analysis Page")
-|:--:|
-| *Figure 11: Update Event And Analysis Page* |
 
 ![Showing The Data As Pop Up In Graph](/images/img12.png "Showing The Data As Pop Up In Graph")
-|:--:|
-| *Figure 12: Showing The Data As Pop Up In Graph* |
 
 ![New Event Added By Admin](/images/img13.png "New Event Added By Admin")
-|:--:|
-| *Figure 13: New Event Added By Admin* |
 
 ![Showing New Event To Student](/images/img14.png "Showing New Event To Student")
-|:--:|
-| *Figure 14: Showing New Event To Student* |
 
 ![Removing Event3](/images/img16.png "Removing Event3")
-|:--:|
-| *Figure 15: Removing Event3* |
 
 ![Event3 Removed From Admin Page](/images/img17.png "Event3 Removed From Admin Page")
-|:--:|
-| *Figure 16: Event3 Removed From Admin Page* |
 
 ![Event3 Removed From Student Home Page](/images/img18.png "Event3 Removed From Student Home Page")
-|:--:|
-| *Figure 17: Event3 Removed From Student Home Page* |
 
 ## 6. Run
 
