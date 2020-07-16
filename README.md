@@ -1,3 +1,4 @@
+
 # Eventer
 
 ## 1. Objective
@@ -88,28 +89,27 @@ The changes should not violate the Add Event rules. This page also has a graph f
 
 ## 5. Gallary
 
-![Login Page](/images/img1.png)
+![Login Page](/images/img1.png "Login Page")
 
+![Register Page](/images/img2.png "Register Page")
 
-![Register Page](/images/img2.png)
+![Forgot Password Page](/images/img3.png "Forgot Password Page")
 
-![Forgot Password Page](/images/img3.png)
+![Home Page For Student](/images/img4.png "Home Page For Student")
 
-![Home Page For Student](/images/img4.png)
+![Event Register Page](/images/img5.png "Event Register Page")
 
-![Event Register Page](/images/img5.png)
+![Event3 Is Now Registered](/images/img6.png "Event3 Is Now Registered")
 
-![Event3 Is Now Registered](/images/img6.png)
+![Student Profile Page](/images/img7.png "Student Profile Page")
 
-![Student Profile Page](/images/img7.png)
+![Home Page For Admin](/images/img8.png "Home Page For Admin")
 
-![Home Page For Admin](/images/img8.png)
+![Add Event Page](/images/img9.png "Add Event Page")
 
-![Add Event Page](/images/img9.png)
+![Remove Event Page](/images/img10.png "Remove Event Page")
 
-![Remove Event Page](/images/img10.png)
-
-![Update Event And Analysis Page](/images/img11.png)
+![Update Event And Analysis Page](/images/img11.png "Update Event And Analysis Page")
 
 ![Showing The Data As Pop Up In Graph](/images/img12.png "Showing The Data As Pop Up In Graph")
 
