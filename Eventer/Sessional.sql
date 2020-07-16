@@ -53,14 +53,6 @@ CREATE TABLE `events` (
   `etime` time NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Dumping data for table `events`
---
-
-INSERT INTO `events` (`ename`, `description`, `edate`, `etime`) VALUES
-('Event1', 'Sports event', '2020-06-10', '19:00:00'),
-('Event3', 'This is Event 3', '2020-12-15', '18:00:00');
-
 -- --------------------------------------------------------
 
 --
@@ -79,15 +71,6 @@ CREATE TABLE `Users` (
   `e2` varchar(40) NOT NULL DEFAULT '0',
   `e3` varchar(40) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
---
--- Dumping data for table `Users`
---
-
-INSERT INTO `Users` (`fname`, `lname`, `bdate`, `uname`, `pswd`, `rno`, `emailid`, `e1`, `e2`, `e3`) VALUES
-('Kandarp', 'Kakkad', '1998-12-05', 'kandarpbkakkad', '$1$somethin$w3SfTt2UsaOJINTsjw30w/', '17BIT034', '17bit034@nirmauni.ac.in', 'Event1', 'Event3', '0'),
-('Siddharth', 'Marvania', '1998-12-15', 'sjmarvania', '$1$somethin$geb0tMjOlpGx.Mlqvysh..', '17BIT046', '17bit046@nirmauni.ac.in', 'Event1', '0', '0');
-COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
