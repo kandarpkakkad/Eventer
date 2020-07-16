@@ -87,39 +87,39 @@ __Event Name:__ Event Name should be present in the database.
 The changes should not violate the Add Event rules. This page also has a graph for analysis.
 
 ## 5. Gallary
-![Login Page](/images/img1.png "Login Page")
+![Login Page](images/img1.png "Login Page")
 
-![Register Page](/images/img2.png "Register Page")
+![Register Page](images/img2.png "Register Page")
 
-![Forgot Password Page](/images/img3.png "Forgot Password Page")
+![Forgot Password Page](images/img3.png "Forgot Password Page")
 
-![Home Page For Student](/images/img4.png "Home Page For Student")
+![Home Page For Student](images/img4.png "Home Page For Student")
 
-![Event Register Page](/images/img5.png "Event Register Page")
+![Event Register Page](images/img5.png "Event Register Page")
 
-![Event3 Is Now Registered](/images/img6.png "Event3 Is Now Registered")
+![Event3 Is Now Registered](images/img6.png "Event3 Is Now Registered")
 
-![Student Profile Page](/images/img7.png "Student Profile Page")
+![Student Profile Page](images/img7.png "Student Profile Page")
 
-![Home Page For Admin](/images/img8.png "Home Page For Admin")
+![Home Page For Admin](images/img8.png "Home Page For Admin")
 
-![Add Event Page](/images/img9.png "Add Event Page")
+![Add Event Page](images/img9.png "Add Event Page")
 
-![Remove Event Page](/images/img10.png "Remove Event Page")
+![Remove Event Page](images/img10.png "Remove Event Page")
 
-![Update Event And Analysis Page](/images/img11.png "Update Event And Analysis Page")
+![Update Event And Analysis Page](images/img11.png "Update Event And Analysis Page")
 
-![Showing The Data As Pop Up In Graph](/images/img12.png "Showing The Data As Pop Up In Graph")
+![Showing The Data As Pop Up In Graph](images/img12.png "Showing The Data As Pop Up In Graph")
 
-![New Event Added By Admin](/images/img13.png "New Event Added By Admin")
+![New Event Added By Admin](images/img13.png "New Event Added By Admin")
 
-![Showing New Event To Student](/images/img14.png "Showing New Event To Student")
+![Showing New Event To Student](images/img14.png "Showing New Event To Student")
 
-![Removing Event3](/images/img16.png "Removing Event3")
+![Removing Event3](images/img16.png "Removing Event3")
 
-![Event3 Removed From Admin Page](/images/img17.png "Event3 Removed From Admin Page")
+![Event3 Removed From Admin Page](images/img17.png "Event3 Removed From Admin Page")
 
-![Event3 Removed From Student Home Page](/images/img18.png "Event3 Removed From Student Home Page")
+![Event3 Removed From Student Home Page](images/img18.png "Event3 Removed From Student Home Page")
 ## 6. Run
 
 To run the site on localhost, install [XAMPP](https://www.apachefriends.org/index.html) and start the server. Then go to [phpmyadmin](http://localhost/phpmyadmin/) page and import the Sessional.sql file to your database. Copy the file to htdocs folder in the XAMPP(windows)/lampp(linux) folder and open the site [login.php](http://localhost/login.php) on your browser If you have kept the files in the folder do add the folder name before login.php. 
