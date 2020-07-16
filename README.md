@@ -1,0 +1,2 @@
+# Eventer
+Website for registering students for technical event organized at your institute using PHP. Design form for students to register user event. Admin should be able to add, update and delete event details. Students can view register for events. Admin should be able to see analysis about students registered based on their branch, college of students. For analysis you need to show output in the form of graphs.
