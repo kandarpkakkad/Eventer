@@ -153,3 +153,7 @@ The changes should not violate the Add Event rules. This page also has a graph f
 | ![Event3 Removed From Student Home Page](/images/img18.png "Event3 Removed From Student Home Page") |
 |:--:|
 | *Figure 17: Event3 Removed From Student Home Page* |
+
+## 5. Run
+
+To run the site on localhost, install [XAMPP](https://www.apachefriends.org/index.html) and start the server. Then go to [phpmyadmin](http://localhost/phpmyadmin/) page and import the Sessional.sql file to your database. Then open the login.php file and start using the website.
